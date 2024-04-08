@@ -1,0 +1,19 @@
+{
+  "bracketSpacing": true,
+  "bracketLine": true,
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": false,
+  "endOfLine": "lf",
+  "jsxBracketSameLine": false,
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "^@internal/(.*)$",
+    "^[./].*(?<!\\.(c|le|sc)ss)$",
+    "^[.]/[-a-zA-Z0-9_]+[.](module)[.](css|scss|less)$"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "printWidth": 120
+}
